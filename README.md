@@ -4,9 +4,9 @@
 ## Usage
 
 
-**IMPORTANT:** Please insert the repository names
-example 1: ["service1"]
-example 2: ["service1", "service2", "serviceN"]
+**IMPORTANT:** Please insert the repository names.
+- example 1: ["service1"]
+- example 2: ["service1", "service2", "serviceN"]
 
 0 out of 256 characters maximum (2 minimum). The name must start with a letter and can only contain lowercase letters, numbers, hyphens, underscores, and forward slashes."
 
