@@ -1,5 +1,6 @@
 module "ecr" {
-  source = "lgallard/ecr/aws"
-  for_each = { for x in ["ansible", "jankins", "nginx"] : x => x }
+  source  = "cloudposse/ecr/aws"
+  version = "0.32.2"
+  for_each = { for x in var.repo : x => x }
   name  = "${each.value}"
 }
