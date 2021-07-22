@@ -4,7 +4,7 @@
 ## Usage
 
 
-**IMPORTANT:** Please insert the repository names.
+**IMPORTANT:** Please insert the repository names, then run the script.
 - example 1: ["service1"]
 - example 2: ["service1", "service2", "serviceN"]
 
