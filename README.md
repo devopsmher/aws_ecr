@@ -22,9 +22,9 @@ git clone https://github.com/devopsmher/aws_ecr.git
 ```
 >Step 4: 
 ```bash 
-terrafor init
+terraform init
 ```
 >Step 5: 
 ```bash 
-terrafor apply
+terraform apply
 ```
